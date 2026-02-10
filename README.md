@@ -4,8 +4,8 @@ Notes and materials from the Master’s program in Software Engineering, “IT D
 ---
 ## License
 
-All notes, texts, and educational materials in this repository are licensed under
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). [LICENSE](LICENSE)
+Except where otherwise noted, all notes, texts, and educational materials in this repository are licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). See [LICENSE](LICENSE).
 
 **This means:**
 - Anyone can read, share, reuse my notes
@@ -21,8 +21,8 @@ All code examples and lab source code are licensed under the MIT License. [CODE 
 
 ## Лицензия
 
-Все заметки, тексты и учебные материалы в этом репозитории лицензированы в соответствии с
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). [ЛИЦЕНЗИЯ](LICENSE)
+Если не указано иное, все заметки, тексты и учебные материалы в этом репозитории распространяются по лицензии
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). См. [LICENSE](LICENSE).
 
 **Это означает:**
 - Любой может читать, делиться и повторно использовать мои заметки
